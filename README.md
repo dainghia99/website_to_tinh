@@ -1,5 +1,13 @@
 # Hướng dẫn cài đặt
+# Web Tỏ Tình – Love Confession Website
 
+Đây là một **dự án web tỏ tình đơn giản** được xây dựng bằng **HTML, CSS và JavaScript**.
+Website giúp bạn tạo một trang **tỏ tình dễ thương, lãng mạn** để gửi đến người mình thích.
+
+## 🌸 Mục đích dự án
+- Tham khảo cách xây dựng website tỏ tình
+- Phù hợp cho người mới học lập trình web
+- Có thể chỉnh sửa nội dung theo ý muốn
 #### Hãy đảm bảo rằng máy tính của bạn đã cài `nodejs` nếu chưa cài bạn có thể lên trang [nodejs.org](https://nodejs.org/en) để tải và cài đặt
 
 ## Hướng dẫn chi tiết
